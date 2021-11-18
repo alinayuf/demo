@@ -8,4 +8,3 @@ spring:
     url: ${SPRING_DATASOURCE_URL}
     user: ${SPRING_DATASOURCE_USERNAME}
     password: ${SPRING_DATASOURCE_PASSWORD}
-    change-log: classpath:/db/liquibase/changelog.yaml
